@@ -1,1 +1,2 @@
-google-genai
+# Compatibilidad con las instrucciones anteriores.
+-r requirements.txt

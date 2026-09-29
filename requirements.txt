@@ -1,0 +1,2 @@
+# Dependencia opcional: solo para Gemini.
+google-genai
